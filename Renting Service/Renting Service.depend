@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613923887 source:c:\users\matij\desktop\folder\programming\usaco\renting service\main.cpp
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613925930 source:c:\users\matij\desktop\folder\programming\usaco\mountain view\main.cpp
+	<iostream>
+	<algorithm>
+
